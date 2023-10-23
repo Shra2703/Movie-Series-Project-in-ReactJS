@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Movie-Series-Project-in-ReactJS/static/css/main.f67b8556.css",
+    "main.js": "/Movie-Series-Project-in-ReactJS/static/js/main.a68233d0.js",
+    "index.html": "/Movie-Series-Project-in-ReactJS/index.html",
+    "main.f67b8556.css.map": "/Movie-Series-Project-in-ReactJS/static/css/main.f67b8556.css.map",
+    "main.a68233d0.js.map": "/Movie-Series-Project-in-ReactJS/static/js/main.a68233d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f67b8556.css",
+    "static/js/main.a68233d0.js"
+  ]
+}
